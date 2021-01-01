@@ -1,3 +1,9 @@
+---
+title: "Codebook.md"
+author: "Koveshini Pillay"
+output: "github_document"
+---
+
 # Getting and Cleaning Data Project
 
 ## Library packages required
